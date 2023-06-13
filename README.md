@@ -2,4 +2,4 @@
 Ejercicio Portafolio
 
 Visualizar Pagina:
-https://github.com/Camilo-28/Reloj-Digital.git
+https://camilo-28.github.io/Reloj-Digital/
